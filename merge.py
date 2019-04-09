@@ -4,7 +4,7 @@ import json
 
 CONTENT_DIR  = "./manual/"
 INDEXES_FILE = CONTENT_DIR + "__indexes.json"
-OUTPUT_FILE  = CONTENT_DIR + "__combined.md"
+OUTPUT_FILE  = CONTENT_DIR + "__merged.md"
 NEWPAGE_CODE = '<div style="page-break-before:always"></div>'
 
 f = open(INDEXES_FILE, 'r')
