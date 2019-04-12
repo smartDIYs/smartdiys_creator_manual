@@ -40,6 +40,10 @@
     "title": "ユーザ辞書"
   },
   {
+    "file": "correction.md",
+    "title": "補正値の算出方法"
+  },
+  {
     "_file": "releasenote.md",
     "_title": "リリースノート"
   }
