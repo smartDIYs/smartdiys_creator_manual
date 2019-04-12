@@ -1,1 +1,3 @@
-# smartDIYs Creator マニュアル
+# SmartDIYsCreator マニュアル
+
+`_source`フォルダはgitignoreされます。

@@ -1,6 +1,11 @@
 ここではFABOOLシリーズにおけるレーザ加工の種類と、対応する画像フォーマットについて説明します。
 
 ## ベクタ（線）加工
+
+<p align="center">
+<img alt="SmartScreen" src="./images/processtype/vector_stroke_photo.jpg" width="60%">
+</p>
+
 この加工方法では、ベクタ画像のパスに沿ってレーザヘッドが移動し、加工を行うことができます。
 
 ### 特徴
@@ -20,6 +25,11 @@
 ----------------------------------
 
 ## ベクタ（塗り）加工
+
+<p align="center">
+<img alt="SmartScreen" src="./images/processtype/vector_fill_photo.jpg" width="60%">
+</p>
+
 この加工方法では、パスの「塗り」を細かい平行線を引き重ねて（ハッチング）表現します。本ソフトウェアでは平行線同士の間隔やパターンを設定することができます。
 
 ### 特徴
@@ -43,6 +53,11 @@ JPGやPNGなどをSVGとして保存してもベクタ画像には変換され�
 ----------------------------------
 
 ## ラスタ加工
+
+<p align="center">
+<img alt="SmartScreen" src="./images/processtype/raster_photo.jpg" width="60%">
+</p>
+
 この加工方法では、ラスタ画像にディザリング処理を行って画像の濃淡を表現します。
 レーザの強度（刻印の濃さ）ではなく、ドットの密度で濃淡を表現します。
 
