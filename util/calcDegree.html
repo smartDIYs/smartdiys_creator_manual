@@ -1,0 +1,54 @@
+<html lang="jp">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>角度計算スクリプト</h1>
+    <!-- Wordpressに挿入する場合はscriptタグ内の改行を全て削除し、<div> で囲んで下さい -->
+
+    <script>
+      function resetDisplay() {
+        document.getElementById("input-error").innerText = "";
+        document.getElementById("x-axis-angle").innerText = "";
+      };
+      function showAnser(deg) {
+        document.getElementById("x-axis-angle").innerText = deg + " °";
+      };
+      function notNumberError() {
+        document.getElementById("input-error").innerText = "正の数値を入力して下さい";
+      };
+      function zeroDivideError() {
+        document.getElementById("input-error").innerText = "Wの長さが0です";
+      };
+      function calcAngle() {
+        resetDisplay();
+        var w_length = document.getElementById("w_length").value;
+        var l_length = document.getElementById("l_length").value;
+        var pattern  = /^([1-9]\d*|0)(\.\d+)?$/;
+        if (pattern.test(w_length) == false || pattern.test(l_length) == false) {
+          notNumberError();
+          return;
+        }
+        if (w_length == 0) {
+          zeroDivideError();
+          return;
+        }
+        var significant = 100000;
+        var deg = Math.asin((l_length / 2) / w_length) * (180 / Math.PI);
+        var roundedDeg = Math.round(deg * significant) / significant;
+        showAnser(roundedDeg);
+      };
+    </script>
+
+    <form id="x_axis_form" action="" onsubmit="return false;">
+      <p>Wの長さ: <input type="text" id="w_length" value="400" size="10" style="text-align:right"> mm</p>
+      <p>Lの長さ: <input type="text" id="l_length" value="1.5" size="10" style="text-align:right"> mm</p>
+      <input type="submit" onclick="calcAngle();" value="計算する">
+    </form>
+
+    <p id="input-error" style="color:red"></p>
+    <p>補正値は ±<span id="x-axis-angle">----</span> です。</p>
+
+  </body>
+</html>
