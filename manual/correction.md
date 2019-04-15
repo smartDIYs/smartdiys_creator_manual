@@ -55,10 +55,11 @@
 3. 左下角と左上角が重なるように折り重ねます。
 4. 右下角と右上角の重なりにズレがある場合、このズレの距離（L）を測ります。
 5. 下記の公式に当てはめて、角度を算出します。  
-`θ (deg) = arcsin ( (L/2) / W ) * 180 / π``
+`θ (deg) = arcsin ( (L/2) / W ) * 180 / π`
 
 <p align="center">
 <img alt="SmartScreen" src="./images/correction/x-axis-angle.png" width="70%">
+</p>
 
 #### [算出例]
 

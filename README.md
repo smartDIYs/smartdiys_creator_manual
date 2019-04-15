@@ -1,3 +1,3 @@
 # SmartDIYsCreator マニュアル
 
-`_source`フォルダはgitignoreされます。
+`_source`フォルダはgit管理されません。
