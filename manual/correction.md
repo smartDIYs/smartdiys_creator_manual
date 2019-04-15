@@ -61,6 +61,7 @@
 <img alt="SmartScreen" src="./images/correction/x-axis-angle.png" width="70%">
 
 #### [算出例]
+
 データのサイズ: H:280.00mm x W:400.00mm
 折り重ねた際の右下角と右上角のズレ: L: 1.50mm
 
