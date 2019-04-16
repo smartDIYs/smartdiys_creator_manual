@@ -18,6 +18,11 @@
 2. ベータ版のユーザ辞書マネージャのエクスポート機能を使い、全てのパラメータをエクスポートします
 3. 正式版ソフトウェアのユーザ辞書マネージャのインポート機能を使い、`2.`でエクスポートしたファイルを読み込みます
 
+**ベータ版 v0.1.4 はこちらからダウンロードいただけます**  
+- [macOS Beta v0.1.4](http://download.smartdiys.com/desktopapp/offline_installer/v0.1.4/DesktopApp_offline_installer_mac-v0.1.4.dmg)  
+- [Windows Beta v0.1.4](http://download.smartdiys.com/desktopapp/offline_installer/v0.1.4/DesktopApp_offline_installer_mac-v0.1.4.dmg)
+
+
 ## X軸の角度補正機能の変更点について
 正式版では、角度補正のプラス・マイナスの方向が逆になりました。
 正式版では「右上がり」の補正を行う際「マイナス」の補正値を入力して頂くようお願いします。
