@@ -24,10 +24,10 @@
 
 ## ベータ版ソフトウェアをアンインストールしたい
 
-### Windowsの場合
+- **Windowsの場合**  
 ユーザフォルダ/AppData/local/DesktopApp/maintenancetool.exe を起動し、「全てのコンポーネントの削除」を実行して下さい。
 
-### macOSの場合
+- **macOSの場合**  
 /Applicatons/DesktopApp/maintenancetool.app を起動し、「全てのコンポーネントの削除」を実行して下さい。
 
 また、DesktopAppはソフトウェアフォルダ以外にデータ保存用のフォルダを作成しています。
@@ -35,8 +35,8 @@
 
 ※なお、このフォルダを削除するとパラメータのユーザ辞書が完全に消去されます。あらかじめ上記の方法でエクスポートをしておくことをお勧めいたします。
 
-### Windowsの場合
+- **Windowsの場合**  
 C¥Users/ユーザ名/AppData/Roaming/DesktopApp
 
-### macOSの場合
+- **macOSの場合**  
 ~/Library/Application Support/DesktopApp
