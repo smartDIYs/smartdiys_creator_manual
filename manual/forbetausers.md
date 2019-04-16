@@ -21,7 +21,11 @@
 
 <span style="color:red">※ベータ版 v0.1.4 はこちらからダウンロードいただけます</span>
 
-[macOS Beta v0.1.4](http://download.smartdiys.com/desktopapp/offline_installer/v0.1.4/DesktopApp_offline_installer_mac-v0.1.4.dmg)  |  [Windows Beta v0.1.4](http://download.smartdiys.com/desktopapp/offline_installer/v0.1.4/DesktopApp_offline_installer_win-v0.1.4.exe)
+- **macOS Beta v0.1.4**  
+http://download.smartdiys.com/desktopapp/offline_installer/v0.1.4/DesktopApp_offline_installer_mac-v0.1.4.dmg
+
+- **Windows Beta v0.1.4**  
+http://download.smartdiys.com/desktopapp/offline_installer/v0.1.4/DesktopApp_offline_installer_win-v0.1.4.exe
 
 
 ## X軸の角度補正機能の変更点について
