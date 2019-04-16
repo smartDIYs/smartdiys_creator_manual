@@ -1,6 +1,8 @@
 DesktopApp は FABOOL Laserシリーズ対応の加工用ソフトウェアです。
 画像データを取り込んでレイアウトを編集し、レーザパラメータを設定して加工を行うソフトウェアです。
 
+---
+
 <p align="center">
 <img alt="SmartScreen" src="./images/about/screen.png" style="width:85%">
 </p>
@@ -31,3 +33,4 @@ png / jpg / bmp / gif / tif / svg / dxf
 - 本製品の運用を理由とする損失、逸失利益などの請求につきましては、いかなる責任も負いかねますのであらかじめご了承ください。
 - Microsoft Windowsは、米国 Microsoft Corporation の米国およびその他の国における登録商標または商標です。
 - Apple、App Store、Apple ロゴ、Mac、Mac OS、OS X、macOS、iPad、iPhoto、iPod touch、および iTunes は、Apple Inc. の商標です。
+- Adobe、Adobe Illustrator および Photoshop は、 Adobe Systems Incorporatedの米国およびその他の国における登録商標または商標です。
