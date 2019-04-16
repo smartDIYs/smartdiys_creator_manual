@@ -2,7 +2,7 @@
 本ソフトウェアの基本ウィンドウで、以下の要素から構成されています。
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/main.png" width="70%">
+<img alt="SmartScreen" src="./images/names/main.png" style="width:70%">
 </p>
 
 #### (A) タイトルバー
@@ -65,7 +65,7 @@
 ## 加工機コントロールエリア
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/machine_control.png" width="100%">
+<img alt="SmartScreen" src="./images/names/machine_control.png" style="width:100%">
 </p>
 
 ここでは、加工機に関する情報や加工機への動作命令を行うことができます。
@@ -82,7 +82,7 @@
 ## ツールバー
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/toolbar.png" width="80%">
+<img alt="SmartScreen" src="./images/names/toolbar.png" style="width:80%">
 </p>
 
 - (1) 選択ツール: グラフィックエリア内のグラフィックオブジェクトをクリックすることで選択することができます。
@@ -99,7 +99,7 @@
 ### グラフィックオブジェクト選択時
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/object_property.png" width="80%">
+<img alt="SmartScreen" src="./images/names/object_property.png" style="width:80%">
 </p>
 
 通常時は、グラフィックエリア内のグラフィックオブジェクトの座標情報等を表示、編集することができます。
@@ -114,7 +114,7 @@
 ### 位置確認モード時
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/laserhead_property.png" width="80%">
+<img alt="SmartScreen" src="./images/names/laserhead_property.png" style="width:80%">
 </p>
 
 

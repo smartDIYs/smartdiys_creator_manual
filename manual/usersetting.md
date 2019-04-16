@@ -3,7 +3,7 @@
 ## 加工機
 
 <!-- <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_1.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_1.png" style="width:70%">
 </p> -->
 
 ### 設定
@@ -19,7 +19,7 @@
 ## 単位・表示
 
 <!-- <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_2.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_2.png" style="width:70%">
 </p> -->
 
 ### 単位
@@ -35,7 +35,7 @@
 ## シーク速度
 
 <!-- <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_3.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_3.png" style="width:70%">
 </p> -->
 
 シーク速度：レーザヘッドがレーザを出力していない時の移動速度です。基本的にレーザ出力が終了した地点から、次のレーザ出力開始点までの移動速度になります。
@@ -53,7 +53,7 @@ Qualityモード シーク速度を加工速度に合わせます。
 ## 補正
 
 <!-- <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_4.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_4.png" style="width:70%">
 </p> -->
 
 ```
@@ -72,7 +72,7 @@ Qualityモード シーク速度を加工速度に合わせます。
 ## パラメータ
 
 <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_5.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_5.png" style="width:70%">
 </p>
 
 ### パラメータ初期値
@@ -82,7 +82,7 @@ Qualityモード シーク速度を加工速度に合わせます。
 ## その他
 
 <!-- <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_6.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_6.png" style="width:70%">
 </p> -->
 
 ### 通知

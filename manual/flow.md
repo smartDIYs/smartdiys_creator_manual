@@ -54,7 +54,7 @@
 ソフトウェアの「位置確認モード」などを利用してレーザヘッドを素材の真上へ移動させ、素材とレーザヘッドの距離（焦点距離）を調整します。
 
 <p align="center">
-<img alt="GridItem" src="./images/flow/focus.png" width="80%">
+<img alt="GridItem" src="./images/flow/focus.png" style="width:80%">
 </p>
 
 ### 加工範囲の確認

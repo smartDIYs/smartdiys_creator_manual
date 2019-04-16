@@ -13,7 +13,7 @@
 ## グリッドアイテムの刻印
 
 <p align="center">
-<img alt="GridItem" src="./images/griditem/grid_engrave.jpg" width="70%">
+<img alt="GridItem" src="./images/griditem/grid_engrave.jpg" style="width:70%">
 </p>
 
 
@@ -27,7 +27,7 @@
 | キャンバス上のオブジェクトの位置                 | 加工する素材の位置                       |
 
 <p align="center">
-<img alt="GridItem" src="./images/griditem/position_success.jpg" width="80%">
+<img alt="GridItem" src="./images/griditem/position_success.jpg" style="width:80%">
 </p>
 
 

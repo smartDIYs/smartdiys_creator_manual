@@ -58,7 +58,7 @@
 `θ (deg) = arcsin ( (L/2) / W ) * 180 / π`
 
 <p align="center">
-<img alt="SmartScreen" src="./images/correction/x-axis-angle.png" width="70%">
+<img alt="SmartScreen" src="./images/correction/x-axis-angle.png" style="width:70%">
 </p>
 
 #### [算出例]

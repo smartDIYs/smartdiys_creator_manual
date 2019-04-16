@@ -37,7 +37,7 @@
 FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピクセル
 
 <p align="center">
-<img alt="SmartScreen" src="./images/parameter/rasterDPI.jpg" width="70%">
+<img alt="SmartScreen" src="./images/parameter/rasterDPI.jpg" style="width:70%">
 </p>
 
 
@@ -51,5 +51,5 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 ```
 
 <p align="center">
-<img alt="SmartScreen" src="./images/parameter/hatching.png" width="70%">
+<img alt="SmartScreen" src="./images/parameter/hatching.png" style="width:70%">
 </p>

@@ -23,7 +23,7 @@
 - 「ユーザ原点の設定」ボタンをクリックします。
 
 <p align="center">
-<img alt="UserOrigin" src="./images/userorigin/userorigin.jpg" width="80%">
+<img alt="UserOrigin" src="./images/userorigin/userorigin.jpg" style="width:80%">
 </p>
 
 ## ユーザ原点の解除方法
@@ -31,5 +31,5 @@
 - 「ユーザ原点の解除」ボタンをクリックします。
 
 <p align="center">
-<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.jpg" width="80%">
+<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.jpg" style="width:80%">
 </p>
