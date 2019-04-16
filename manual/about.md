@@ -2,7 +2,7 @@ DesktopApp は FABOOL Laserシリーズ対応の加工用ソフトウェアで�
 画像データを取り込んでレイアウトを編集し、レーザパラメータを設定して加工を行うソフトウェアです。
 
 <p align="center">
-<img alt="SmartScreen" src="./images/about/screen.png" style="width:80%">
+<img alt="SmartScreen" src="./images/about/screen.png" style="width:85%">
 </p>
 
 ## 製品仕様

@@ -3,6 +3,10 @@
 DesktopApp は FABOOL Laserシリーズ対応の加工用ソフトウェアです。
 画像データを取り込んでレイアウトを編集し、レーザパラメータを設定して加工を行うソフトウェアです。
 
+<p align="center">
+<img alt="SmartScreen" src="./images/about/screen.png" style="width:85%">
+</p>
+
 ## 製品仕様
 ### 対応製品
 FABOOL Laser Mini / FABOOL Laser CO2 / FABOOL Laser DS
@@ -44,88 +48,88 @@ png / jpg / bmp / gif / tif / svg / dxf
 2. ダウンロードしたインストーラを実行します。
 3. Windowsをお使いの方でセキュリティ警告（SmartScreen）が表示される場合は、「詳細情報」をクリックし、発行元が「SMARTDIYS CO., Ltd.」であることを確認して「実行」ボタンを押してください。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/SmartScreen1_guide.png" width="70%">
+<img alt="SmartScreen" src="./images/install/SmartScreen1_guide.png" style="width:70%">
 </p>
 <p align="center">
-<img alt="SmartScreen" src="./images/install/SmartScreen2_guide.png" width="70%">
+<img alt="SmartScreen" src="./images/install/SmartScreen2_guide.png" style="width:70%">
 </p>
 
 ---
 4. インストール画面が表示されるので、「次へ」ボタンをクリックします。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_1.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_1.png" style="width:70%">
 </p>
 
 ---
 5. DesktopAppが既にインストールされているか確認します。既にインストールされている場合はアンインストールされます。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_2.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_2.png" style="width:70%">
 </p>
 
 ---
 6. チェックが完了したら、「次へ」ボタンをクリックします。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_3.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_3.png" style="width:70%">
 </p>
 
 ---
 7. インストール先フォルダを指定します。特に変更がなければそのまま「次へ」ボタンをクリックします。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_4.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_4.png" style="width:70%">
 </p>
 
 ---
 8. FABOOLSoftwareドライバのインストール状況を確認します。インストールされている場合はアンインストールされます。※PC環境によっては少し時間がかかる場合があります。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_5.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_5.png" style="width:70%">
 </p>
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_6.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_6.png" style="width:70%">
 </p>
 
 ---
 9. チェックが完了したら、「次へ」ボタンをクリックします。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_7.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_7.png" style="width:70%">
 </p>
 
 ---
 10. インストールするコンポーネントが表示されます。全てにチェックが入っていることを確認し、「次へ」ボタンをクリックします。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_8.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_8.png" style="width:70%">
 </p>
 
 ---
 11. 表示されるライセンス条項をご確認頂き、同意される場合は「ライセンスに同意する」にチェックを入れ、「次へ」ボタンをクリックします。※ライセンスに同意されない場合はインストールを完了することはできません。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_9.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_9.png" style="width:70%">
 </p>
 
 ---
 12. インストールボタンをクリックすると、インストールが始まります。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_10.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_10.png" style="width:70%">
 </p>
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_11.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_11.png" style="width:70%">
 </p>
 
 ---
 13. Windowsをお使いの場合、インストール中にデバイスドライバのインストールが開始されますので、「次へ」をクリックしてインストールを行います。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_12.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_12.png" style="width:70%">
 </p>
 
 ---
 14. デバイスドライバのインストールが完了したら、「完了」ボタンをクリックします。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_13.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_13.png" style="width:70%">
 </p>
 
 ---
 15. インストール完了画面が表示されるので、「完了」ボタンをクリックします。このとき「Run Application」にチェックが入っている場合は、自動的にDesktopAppが起動します。
 <p align="center">
-<img alt="SmartScreen" src="./images/install/win_install_14.png" width="70%">
+<img alt="SmartScreen" src="./images/install/win_install_14.png" style="width:70%">
 </p>
 
 ## PCの設定について
@@ -143,7 +147,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 本ソフトウェアの基本ウィンドウで、以下の要素から構成されています。
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/main.png" width="70%">
+<img alt="SmartScreen" src="./images/names/main.png" style="width:70%">
 </p>
 
 #### (A) タイトルバー
@@ -206,7 +210,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ## 加工機コントロールエリア
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/machine_control.png" width="100%">
+<img alt="SmartScreen" src="./images/names/machine_control.png" style="width:100%">
 </p>
 
 ここでは、加工機に関する情報や加工機への動作命令を行うことができます。
@@ -223,7 +227,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ## ツールバー
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/toolbar.png" width="80%">
+<img alt="SmartScreen" src="./images/names/toolbar.png" style="width:80%">
 </p>
 
 - (1) 選択ツール: グラフィックエリア内のグラフィックオブジェクトをクリックすることで選択することができます。
@@ -240,7 +244,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ### グラフィックオブジェクト選択時
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/object_property.png" width="80%">
+<img alt="SmartScreen" src="./images/names/object_property.png" style="width:80%">
 </p>
 
 通常時は、グラフィックエリア内のグラフィックオブジェクトの座標情報等を表示、編集することができます。
@@ -255,7 +259,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ### 位置確認モード時
 
 <p align="center">
-<img alt="SmartScreen" src="./images/names/laserhead_property.png" width="80%">
+<img alt="SmartScreen" src="./images/names/laserhead_property.png" style="width:80%">
 </p>
 
 
@@ -293,7 +297,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ## ベクタ（線）加工
 
 <p align="center">
-<img alt="SmartScreen" src="./images/processtype/vector_stroke_photo.jpg" width="60%">
+<img alt="SmartScreen" src="./images/processtype/vector_stroke_photo.jpg" style="width:60%">
 </p>
 
 この加工方法では、ベクタ画像のパスに沿ってレーザヘッドが移動し、加工を行うことができます。
@@ -308,7 +312,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ※白色の線は無視されるため、白色以外で指定してください。
 ```
 <p align="center">
-<img alt="SmartScreen" src="./images/processtype/vector_stroke.png" width="70%">
+<img alt="SmartScreen" src="./images/processtype/vector_stroke.png" style="width:70%">
 </p>
 
 
@@ -317,7 +321,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ## ベクタ（塗り）加工
 
 <p align="center">
-<img alt="SmartScreen" src="./images/processtype/vector_fill_photo.jpg" width="60%">
+<img alt="SmartScreen" src="./images/processtype/vector_fill_photo.jpg" style="width:60%">
 </p>
 
 この加工方法では、パスの「塗り」を細かい平行線を引き重ねて（ハッチング）表現します。本ソフトウェアでは平行線同士の間隔やパターンを設定することができます。
@@ -332,7 +336,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 ※白色の塗りは無視されるため、白色以外で指定してください。
 ```
 <p align="center">
-<img alt="SmartScreen" src="./images/processtype/vector_fill.png" width="70%">
+<img alt="SmartScreen" src="./images/processtype/vector_fill.png" style="width:70%">
 </p>
 
 ```
@@ -345,15 +349,15 @@ JPGやPNGなどをSVGとして保存してもベクタ画像には変換され�
 ## ラスタ加工
 
 <p align="center">
-<img alt="SmartScreen" src="./images/processtype/raster_photo.jpg" width="60%">
+<img alt="SmartScreen" src="./images/processtype/raster_photo.jpg" style="width:60%">
 </p>
 
 この加工方法では、ラスタ画像にディザリング処理を行って画像の濃淡を表現します。
-レーザの強度（刻印の濃さ）ではなく、ドットの密度で濃淡を表現します。
 
 ### 特徴
 - 濃淡のあるイラストや写真の刻印に適している加工方法です。
 - この加工を行うためには、ラスタ画像（JPGやPNG等）が必要です。
+- レーザの強度（刻印の濃さ）ではなく、ドットの密度で濃淡を表現します。
 
 ### データ作成方法
 お持ちのペイントソフトウェア等にてトリミングやコントラストの調整を行ってください。
@@ -364,8 +368,64 @@ JPGやPNGなどをSVGとして保存してもベクタ画像には変換され�
 ```
 
 <p align="center">
-<img alt="SmartScreen" src="./images/processtype/raster.png" width="70%">
+<img alt="SmartScreen" src="./images/processtype/raster.png" style="width:70%">
 </p>
+
+<div style="page-break-before:always"></div>
+
+# グラフィックエリアの操作
+# グラフィックエリアのコントロール
+
+## 表示エリアのコントロール
+キャンバスエリアの表示領域は、`パンツール`や`ズームツール`で操作できます。
+また、下記の操作方法でもコントロールすることができます。
+
+- 表示領域の位置変更: スペースキー + マウスドラッグ
+- 表示領域の縮尺変更: Altキー + マウスホイール
+
+## グラフィックオブジェクトのコントロール
+オブジェクトをクリックするとオブジェクトが選択され、コントローラが表示されます。
+マウスドラッグ等でコントローラを操作することでオブジェクトをコントロールすることができます。
+また、これらの操作は、プロパティパレットから行うこともできます。
+
+### 位置のコントロール
+コントローラをドラッグすることで任意の位置にオブジェクトを移動させることができます。
+また、キーボードの矢印キーで移動させることもできます。
+
+### 大きさのコントロール
+コントローラの隅にあるグリップをドラッグすることで任意の大きさにすることができます。
+ドラッグの際、`Shift`キーを押すと縦横比の固定を切り替えることができます。
+
+### 回転のコントロール
+コントローラのグリップ付近にマウスカーソルを近ずけると、カーソルのアイコンが回転コントロールのマークになります。この状態でドラッグすると任意の角度に回転させることができます。
+
+### オブジェクトの複製
+オブジェクトを選択した状態でコピーアイコンをクリックするとペーストバッファにコピーすることができます。この状態でペーストアイコンをクリックすると、オブジェクトを複製することができます。この際、オブジェクトに紐づいているレーザパラメータはコピー元のオブジェクトと共有されます。
+
+### オブジェクトの削除
+オブジェクトを選択した状態でゴミ箱アイコンをクリックすると削除することができます。
+
+### オフジェクトの整列
+オブジェクトを選択した状態で右クリックすると、メニューが表示されます。
+このメニューの「整列」項目から任意の整列操作を行うことができます。
+
+- `選択オブジェクトに整列`  
+複数のオブジェクトが選択されている場合に有効です。
+選択されている複数のオブジェクトの矩形範囲に於いて整列動作を行います。
+複数のオブジェクトを選択して「右揃え」を行うと、一番右にあるオブジェクトの右端に整列されます。
+
+- `キャンバスに整列`  
+単体または複数のオブジェクトが選択されている場合に有効です。
+キャンバスの範囲が整列の範囲に於いて整列動作を行います。
+複数オブジェクトを選択して「右揃え」を行うと、キャンバスの右端に整列されます。
+
+### オフジェクトの反転
+オブジェクトを選択した状態で右クリックすると、メニューが表示されます。
+このメニューの「変形」項目から任意の反転操作を行うことができます。
+
+### オブジェクトの重なりの操作
+オブジェクトを選択した状態で右クリックすると、メニューが表示されます。
+このメニューの「背面へ移動」をクリックすると、選択オブジェクトを背面へ移動することができます。
 
 <div style="page-break-before:always"></div>
 
@@ -409,7 +469,7 @@ JPGやPNGなどをSVGとして保存してもベクタ画像には変換され�
 FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピクセル
 
 <p align="center">
-<img alt="SmartScreen" src="./images/parameter/rasterDPI.jpg" width="70%">
+<img alt="SmartScreen" src="./images/parameter/rasterDPI.jpg" style="width:70%">
 </p>
 
 
@@ -423,7 +483,7 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 ```
 
 <p align="center">
-<img alt="SmartScreen" src="./images/parameter/hatching.png" width="70%">
+<img alt="SmartScreen" src="./images/parameter/hatching.png" style="width:70%">
 </p>
 
 <div style="page-break-before:always"></div>
@@ -433,9 +493,9 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 
 ## 加工機
 
-<p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_1.png" width="70%">
-</p>
+<!-- <p align="center">
+<img alt="SmartScreen" src="./images/usersetting/settings_1.png" style="width:70%">
+</p> -->
 
 ### 設定
 お使いの加工機のモデル名とレーザタイプを設定します。この設定は、加工範囲やドライバパワー、プリセットパラメータに影響します。
@@ -449,9 +509,9 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 ---------------
 ## 単位・表示
 
-<p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_2.png" width="70%">
-</p>
+<!-- <p align="center">
+<img alt="SmartScreen" src="./images/usersetting/settings_2.png" style="width:70%">
+</p> -->
 
 ### 単位
 グリッドの間隔やオブジェクトの矩形表示単位などを mm または inch に設定できます。
@@ -465,9 +525,9 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 ---------------
 ## シーク速度
 
-<p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_3.png" width="70%">
-</p>
+<!-- <p align="center">
+<img alt="SmartScreen" src="./images/usersetting/settings_3.png" style="width:70%">
+</p> -->
 
 シーク速度：レーザヘッドがレーザを出力していない時の移動速度です。基本的にレーザ出力が終了した地点から、次のレーザ出力開始点までの移動速度になります。
 
@@ -482,38 +542,39 @@ Qualityモード シーク速度を加工速度に合わせます。
 
 ---------------
 ## 補正
-<p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_4.png" width="70%">
-</p>
+
+<!-- <p align="center">
+<img alt="SmartScreen" src="./images/usersetting/settings_4.png" style="width:70%">
+</p> -->
 
 ```
 ※これらの機能は補助的なものです。
 ハードウェアの調整を十分に行なった上でご利用ください。
 ```
 
-### 拡大
+### 大きさ補正
 図形をG-Codeに変換する際に各方向へ指定された割合だけ拡大・縮小します。オブジェクトが加工範囲の境界近くにある場合、加工中にリミットスイッチに接触してしまう恐れがあります。
 
 ### X軸傾き補正
 加工機のX軸の傾きを補正するため、GCodeに変換される際にオブジェクトにシアーを適用します。オブジェクトが加工範囲の境界近くにある場合、加工中にリミットスイッチに接触してしまう恐れがあります。
 
 
----------------
+<!-- ---------------
 ## パラメータ
 
 <p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_5.png" width="70%">
+<img alt="SmartScreen" src="./images/usersetting/settings_5.png" style="width:70%">
 </p>
 
 ### パラメータ初期値
-新しいアイテムをインポートする際に設定されるレーザパラメータのデフォルト値を設定します。すでに生成されているパラメータには影響しません。
+新しいアイテムをインポートする際に設定されるレーザパラメータのデフォルト値を設定します。すでに生成されているパラメータには影響しません。 -->
 
 ---------------
 ## その他
 
-<p align="center">
-<img alt="SmartScreen" src="./images/usersetting/settings_6.png" width="70%">
-</p>
+<!-- <p align="center">
+<img alt="SmartScreen" src="./images/usersetting/settings_6.png" style="width:70%">
+</p> -->
 
 ### 通知
 ソフトウェアアップデートの自動通知の有効・無効を設定します。新しいバージョンがある場合、ソフトウェア起動時にダイアログが表示されます。
@@ -530,7 +591,7 @@ Qualityモード シーク速度を加工速度に合わせます。
 ## 加工機との接続
 加工機の電源を入れ、USBケーブルでPCと加工機と接続します。
 
-## 加工データの作成
+## 加工データの配置
 
 ### データのインポート
 まず、アイテムリストパネルにある「アイテム追加」ボタンをクリックし、下記のいずれかの手段で加工アイテムを追加します。
@@ -564,6 +625,13 @@ Qualityモード シーク速度を加工速度に合わせます。
 - `プリセット`  
   あらかじめ用意されているパラメータです。加工結果は実際に加工する素材の特性や機械の調整精度に依存します。
 
+### 加工順序設定
+複数のアイテムを加工する場合、アイテムリストの上から順に加工されます。アイテムリストの順序はドラッグ&ドロップで並べ変えることができます。
+
+<p align="center">
+<img alt="GridItem" src="./images/flow/order.png" style="width:70%">
+</p>
+
 ## 加工準備
 
 ### 原点復帰
@@ -573,8 +641,12 @@ Qualityモード シーク速度を加工速度に合わせます。
 ### 素材の設置
 加工機に加工対象の素材を設置します。
 
-###　焦点距離の設定
+### 焦点距離の設定
 ソフトウェアの「位置確認モード」などを利用してレーザヘッドを素材の真上へ移動させ、素材とレーザヘッドの距離（焦点距離）を調整します。
+
+<p align="center">
+<img alt="GridItem" src="./images/flow/focus.png" style="width:80%">
+</p>
 
 ### 加工範囲の確認
 必要に応じて、素材に対する加工範囲の確認を行ってください。
@@ -584,18 +656,20 @@ Qualityモード シーク速度を加工速度に合わせます。
 ## 加工開始
 
 ---------------
+
 ### 安全チェック項目
-- [ ] レーザヘッドの高さは適切ですか？
-- [ ] 加工エリア内や加工機の近くに障害物はありませんか？
-- [ ] 素材を置いている台は燃えにくいですか？  
-     （素材の厚さによってはレーザ光が到達する可能性があります）
-- [ ] 加工範囲が配置している素材の中に収まっていますか？
+- レーザヘッドの高さは適切ですか？
+- 加工エリア内や加工機の近くに障害物はありませんか？
+- 素材を置いている台は燃えにくいですか？  
+  （素材の厚さによってはレーザ光が到達する可能性があります）
+- 加工範囲が配置している素材の中に収まっていますか？
+
 ---------------
 
 
 全ての準備が整ったら、STARTボタンをクリックします。注意喚起ダイアログが表示されるので内容を確認し、「OK」ボタンを押してください。
 
-パラメータの設定値や素材によっては炎が上がり、火災に繋がる恐れがあります。加工中は加工機から離れないでください。
+パラメータの設定値や素材によっては炎が上がる恐れがあります。加工中は加工機から離れないでください。
 また、ソフトウェアは加工中、加工機に対して常に制御情報を送付しています。そのため、PCがスリープモードになってしまったり、アプリケーションが非アクティブになってしまうなどすると、加工機への制御情報の送付が中断されてしまったり、通信の優先度が下げられてしまう場合があります。ご注意ください。
 
 ## 加工終了
@@ -626,7 +700,7 @@ Qualityモード シーク速度を加工速度に合わせます。
 ## グリッドアイテムの刻印
 
 <p align="center">
-<img alt="GridItem" src="./images/griditem/grid_engrave.jpg" width="70%">
+<img alt="GridItem" src="./images/griditem/grid_engrave.jpg" style="width:70%">
 </p>
 
 
@@ -640,7 +714,7 @@ Qualityモード シーク速度を加工速度に合わせます。
 | キャンバス上のオブジェクトの位置                 | 加工する素材の位置                       |
 
 <p align="center">
-<img alt="GridItem" src="./images/griditem/position_success.jpg" width="80%">
+<img alt="GridItem" src="./images/griditem/position_success.jpg" style="width:80%">
 </p>
 
 
@@ -692,7 +766,7 @@ FABOOL Laser Mini 1.6W
 - 「ユーザ原点の設定」ボタンをクリックします。
 
 <p align="center">
-<img alt="UserOrigin" src="./images/userorigin/userorigin.jpg" width="80%">
+<img alt="UserOrigin" src="./images/userorigin/userorigin.jpg" style="width:80%">
 </p>
 
 ## ユーザ原点の解除方法
@@ -700,7 +774,7 @@ FABOOL Laser Mini 1.6W
 - 「ユーザ原点の解除」ボタンをクリックします。
 
 <p align="center">
-<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.jpg" width="80%">
+<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.jpg" style="width:80%">
 </p>
 
 <div style="page-break-before:always"></div>
@@ -763,16 +837,16 @@ FABOOL Laser Mini 1.6W
 ここでは、ユーザ設定の「補正」項目について説明します。
 この補正項目は下記の現象を改善するために有効な調整値です。
 
-・加工物の寸法がデータと異なる
-・X軸とY軸が直角ではない
+- 加工物の寸法がデータと異なる
+- X軸とY軸が直角ではない
 
 ## 加工物の寸法がデータと異なる
 
 ### 主な原因
-1. 光軸調整が適切でない場合
-2. プーリーやタイミングベルトなどの調整が適切でない場合
+1. 光軸調整が適切ではない
+2. プーリーやタイミングベルトなどの調整が適切ではない
 
-上記の調整を行なっても改善しきれない場合は、拡大・縮小の項目を調整して頂くことで解消できます。
+上記の調整を行なっても改善しきれない場合は、大きさ補正の項目を設定して頂くことで改善が期待できます。
 
 ### 補正値の算出方法
 
@@ -780,17 +854,19 @@ FABOOL Laser Mini 1.6W
 2. シワや歪みが生じにくい素材に刻印加工を行います。
 3. データのサイズと刻印加工のサイズから比率を算出します。
 
-[例]
-データのサイズ: H:200.00mm x W:200.00mm
+#### [算出例]
+データのサイズ: H:200.00mm x W:200.00mm  
 実際の加工サイズ: H:199.10mm x W:199.50mm
 
 [Hの補正値]
+
 ```
 求め方: （データ）200.00 / （実際）199.10 = 1.00452034...
 設定値: 100.45203(%)
 ```
 
 [Wの補正値]
+
 ```
 求め方: （データ）200.00 / （実際）199.50 = 1.00250626...
 設定値: 100.25063(%)
@@ -801,30 +877,38 @@ FABOOL Laser Mini 1.6W
 ### 主な原因
 
 原因:
-1. 光軸調整が適切でない
+1. 光軸調整が適切ではない
 2. フレームやX軸の組み立て時に傾きが生じている
+
+上記の調整を行なっても改善しきれない場合は、傾き補正の項目を調整して頂くことで改善が期待できます。
 
 ### 補正値の算出方法
 
-まず、上記の「大きさの補正」を済ませておくと、より正確に補正値が算出できます。
+まず、上記の「大きさ補正」を済ませておくと、より正確に補正値が算出できます。
 
 1. 任意の幅・高さの矩形の加工データを用意します。
-2. 紙などの素材を切断加工します。
+2. シワのない紙などの素材を切断加工します。
 3. 左下角と左上角が重なるように折り重ねます。
 4. 右下角と右上角の重なりにズレがある場合、このズレの距離（L）を測ります。
 5. 下記の公式に当てはめて、角度を算出します。  
-`θ (deg) = arcsin ( (L/2) / W ) * 180 / π``
+`θ (deg) = arcsin ( (L/2) / W ) * 180 / π`
 
-[例]
-データのサイズ: H:280.00mm x W:400.00mm
+<p align="center">
+<img alt="SmartScreen" src="./images/correction/x-axis-angle.png" style="width:70%">
+</p>
+
+#### [算出例]
+
+データのサイズ: H:280.00mm x W:400.00mm  
 折り重ねた際の右下角と右上角のズレ: L: 1.50mm
 
 [角度の補正値]
+
 ```
 求め方: arcsin( 0.75 / 400.00 ) * 180 / π
 設定値:   
-右上がりを補正する場合: -0.46839°  
-右下がりを補正する場合: +0.46839°
+右上がりを補正する場合: -0.10743°  
+右下がりを補正する場合: +0.10743°
 ```
 
 <div style="page-break-before:always"></div>

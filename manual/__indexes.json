@@ -16,6 +16,10 @@
     "title": "加工種類"
   },
   {
+    "file": "graphicsarea.md",
+    "title": "グラフィックエリアの操作"
+  },
+  {
     "file": "parameter.md",
     "title": "パラメータ設定"
   },
