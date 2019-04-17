@@ -7,7 +7,7 @@
 
 ### この機能のご利用シーン
 - 平皿やお盆など、素材の縁に高さがあり、原点復帰を行うとぶつかってしまう場合
-- 位置合わなどの理由で、加工開始時に原点復帰を行いたくない場合
+- 位置合わせなどの理由で、加工開始時に原点復帰を行いたくない場合
 
 ### この機能を利用する上での注意事項
 - 原点復帰は加工機がレーザヘッドの位置を正確に知るために必要な動作です。
@@ -23,7 +23,7 @@
 - 「ユーザ原点の設定」ボタンをクリックします。
 
 <p align="center">
-<img alt="UserOrigin" src="./images/userorigin/userorigin.jpg" style="width:80%">
+<img alt="UserOrigin" src="./images/userorigin/userorigin.png" style="width:80%">
 </p>
 
 ## ユーザ原点の解除方法
@@ -31,5 +31,5 @@
 - 「ユーザ原点の解除」ボタンをクリックします。
 
 <p align="center">
-<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.jpg" style="width:80%">
+<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.png" style="width:80%">
 </p>
