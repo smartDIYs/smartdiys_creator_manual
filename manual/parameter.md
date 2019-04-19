@@ -1,5 +1,9 @@
 ここでは、パラメータの設定項目について説明します。
 
+<p align="center">
+<img alt="UserOrigin" src="./images/parameter/about.png" style="width:50%">
+</p>
+
 ## 有効
 対象のアイテムを加工するかどうかを設定できます。「有効」のチェックが外れている場合、対象のアイテムは加工されません。  
 ```
