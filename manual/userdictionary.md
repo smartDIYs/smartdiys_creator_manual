@@ -1,5 +1,9 @@
 ここでは、ユーザ辞書の活用方法について説明します。
 
+<p align="center">
+<img alt="UserOrigin" src="./images/userdictionary/about.png" style="width:50%">
+</p>
+
 ## ユーザ辞書の活用
 
 よく使うパラメータをユーザ辞書へ登録しておくとパラメータ設定が簡単になります。
@@ -28,6 +32,12 @@
 
 
 ## ユーザ辞書マネージャ
+
+<p align="center">
+<img alt="UserOrigin" src="./images/userdictionary/dictionaryManager.png" style="width:50%">
+</p>
+
+
 メニューバーの [パラメータ] > [ユーザ辞書マネージャー] を選択すると、ユーザ辞書マネージャーダイアログが表示されます。
 ここでは、ユーザ辞書のインポートやエクスポート、一括削除の操作が行えます。
 

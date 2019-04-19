@@ -1,5 +1,9 @@
 ここでは、ユーザ設定ダイアログの設定項目について説明します。
 
+<p align="center">
+<img alt="UserOrigin" src="./images/usersetting/about.png" style="width:70%">
+</p>
+
 ## 加工機
 
 <!-- <p align="center">
