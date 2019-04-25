@@ -48,6 +48,10 @@
     "title": "補正値の算出方法"
   },
   {
+    "file": "update.md",
+    "title": "ソフトウェアのアップデート"
+  },
+  {
     "_file": "releasenote.md",
     "_title": "リリースノート"
   }
