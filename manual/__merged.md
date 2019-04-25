@@ -3,6 +3,8 @@
 DesktopApp は FABOOL Laserシリーズ対応の加工用ソフトウェアです。
 画像データを取り込んでレイアウトを編集し、レーザパラメータを設定して加工を行うソフトウェアです。
 
+---
+
 <p align="center">
 <img alt="SmartScreen" src="./images/about/screen.png" style="width:85%">
 </p>
@@ -33,6 +35,7 @@ png / jpg / bmp / gif / tif / svg / dxf
 - 本製品の運用を理由とする損失、逸失利益などの請求につきましては、いかなる責任も負いかねますのであらかじめご了承ください。
 - Microsoft Windowsは、米国 Microsoft Corporation の米国およびその他の国における登録商標または商標です。
 - Apple、App Store、Apple ロゴ、Mac、Mac OS、OS X、macOS、iPad、iPhoto、iPod touch、および iTunes は、Apple Inc. の商標です。
+- Adobe、Adobe Illustrator および Photoshop は、 Adobe Systems Incorporatedの米国およびその他の国における登録商標または商標です。
 
 <div style="page-break-before:always"></div>
 
@@ -151,7 +154,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 </p>
 
 #### (A) タイトルバー
-現在のプロジェクトファイルの名称や、最小/最大化ボタン、ソフトウェアの終了ボタンが配置されています。
+現在のプロジェクトファイルの名称や、最小・最大化ボタン、ソフトウェアの終了ボタンが配置されています。
 
 #### (B) メニューバ
 メニューを選択することにより、様々な機能を実行させます。
@@ -282,6 +285,11 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 
 追加されたアイテムはリストから確認することができます。なお、このリストの並び順に加工が行われます。
 
+また、アイテムリスト下部のアイコンをクリックすると表示モードを切り替えることができます。
+<p align="center">
+<img alt="SmartScreen" src="./images/names/itemlist_mode.png" style="width:50%">
+</p>
+
 #### パラメータ設定ウィンドウ
 アイテムリストに表示されているアイテムをクリックすると表示され、対象のアイテムの加工パラメータを設定します。
 
@@ -291,7 +299,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 
 <div style="page-break-before:always"></div>
 
-# 加工種類
+# 加工の種類とデータ
 ここではFABOOLシリーズにおけるレーザ加工の種類と、対応する画像フォーマットについて説明します。
 
 ## ベクタ（線）加工
@@ -307,7 +315,8 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 - この加工を行うためには、ベクタ画像（SVGやDXF）が必要です。
 
 ### データ作成方法
-お持ちのドローイングソフトウェアにて任意の図形を描き、線の色を設定することでベクタ（線）加工を行うためのデータが作成できます。
+お持ちのドローイングソフトウェアにて任意の図形を描き、線の色を設定することでベクタ（線）加工を行うためのデータが作成できます。  
+また、SVGデータをソフトウェアにインポートする際、色ごと別々のアイテムに分割されます。そのため、あらかじめ線の色分けを行なっておくことで、加工順序の変更を調整できるようになります。
 ```
 ※白色の線は無視されるため、白色以外で指定してください。
 ```
@@ -332,6 +341,7 @@ DesktopAppは加工中、加工機に対して常に制御情報を送付して�
 
 ### データ作成方法
 お持ちのドローイングソフトウェアにて任意の図形を描き、塗りの色を設定することでベクタ（塗り）加工を行うためのデータが作成できます。
+また、SVGデータをソフトウェアにインポートする際、色ごと別々のアイテムに分割されます。そのため、あらかじめ線塗りの色分けを行なっておくことで、加工順序の変更を調整できるようになります。
 ```
 ※白色の塗りは無視されるため、白色以外で指定してください。
 ```
@@ -370,6 +380,23 @@ JPGやPNGなどをSVGとして保存してもベクタ画像には変換され�
 <p align="center">
 <img alt="SmartScreen" src="./images/processtype/raster.png" style="width:70%">
 </p>
+
+
+----------------------------------
+## DXFデータについて
+
+### 書き出し形式について
+本ソフトウェアでは、**DXF R12・テキスト** 形式の書き出しを推奨しております。
+
+### 色分けについて
+AutoCAD 2018 や LibreCAD をお使いの場合、レイヤーに色をつけて保存することで色分けを表現できます。
+
+一方、DXFフォーマットはソフトウェア毎の方言が多く、お使いのソフトウェアによっては上記の方法で書き出した場合でも色を認識できない場合がございます。
+その場合は、SVGとして書き出して頂くか、SVG変換を行うためのソフトウェアやオンラインサービスをご利用ください。
+
+- [https://www.dxfconverter.org/](https://www.dxfconverter.org/)
+- [https://convertio.co/ja/dxf-svg/](https://convertio.co/ja/dxf-svg/)
+- [https://onlineconvertfree.com/ja/convert-format/dxf-to-svg/](https://onlineconvertfree.com/ja/convert-format/dxf-to-svg/)
 
 <div style="page-break-before:always"></div>
 
@@ -432,6 +459,10 @@ JPGやPNGなどをSVGとして保存してもベクタ画像には変換され�
 # パラメータ設定
 ここでは、パラメータの設定項目について説明します。
 
+<p align="center">
+<img alt="UserOrigin" src="./images/parameter/about.png" style="width:50%">
+</p>
+
 ## 有効
 対象のアイテムを加工するかどうかを設定できます。「有効」のチェックが外れている場合、対象のアイテムは加工されません。  
 ```
@@ -490,6 +521,10 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 
 # ユーザ設定
 ここでは、ユーザ設定ダイアログの設定項目について説明します。
+
+<p align="center">
+<img alt="UserOrigin" src="./images/usersetting/about.png" style="width:70%">
+</p>
 
 ## 加工機
 
@@ -750,7 +785,7 @@ FABOOL Laser Mini 1.6W
 
 ### この機能のご利用シーン
 - 平皿やお盆など、素材の縁に高さがあり、原点復帰を行うとぶつかってしまう場合
-- 位置合わなどの理由で、加工開始時に原点復帰を行いたくない場合
+- 位置合わせなどの理由で、加工開始時に原点復帰を行いたくない場合
 
 ### この機能を利用する上での注意事項
 - 原点復帰は加工機がレーザヘッドの位置を正確に知るために必要な動作です。
@@ -766,7 +801,7 @@ FABOOL Laser Mini 1.6W
 - 「ユーザ原点の設定」ボタンをクリックします。
 
 <p align="center">
-<img alt="UserOrigin" src="./images/userorigin/userorigin.jpg" style="width:80%">
+<img alt="UserOrigin" src="./images/userorigin/userorigin.png" style="width:80%">
 </p>
 
 ## ユーザ原点の解除方法
@@ -774,13 +809,17 @@ FABOOL Laser Mini 1.6W
 - 「ユーザ原点の解除」ボタンをクリックします。
 
 <p align="center">
-<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.jpg" style="width:80%">
+<img alt="ResetUserOrigin" src="./images/userorigin/resetuserorigin.png" style="width:80%">
 </p>
 
 <div style="page-break-before:always"></div>
 
 # ユーザ辞書
 ここでは、ユーザ辞書の活用方法について説明します。
+
+<p align="center">
+<img alt="UserOrigin" src="./images/userdictionary/about.png" style="width:50%">
+</p>
 
 ## ユーザ辞書の活用
 
@@ -810,6 +849,12 @@ FABOOL Laser Mini 1.6W
 
 
 ## ユーザ辞書マネージャ
+
+<p align="center">
+<img alt="UserOrigin" src="./images/userdictionary/dictionaryManager.png" style="width:50%">
+</p>
+
+
 メニューバーの [パラメータ] > [ユーザ辞書マネージャー] を選択すると、ユーザ辞書マネージャーダイアログが表示されます。
 ここでは、ユーザ辞書のインポートやエクスポート、一括削除の操作が行えます。
 
@@ -910,5 +955,26 @@ FABOOL Laser Mini 1.6W
 右上がりを補正する場合: -0.10743°  
 右下がりを補正する場合: +0.10743°
 ```
+
+<div style="page-break-before:always"></div>
+
+# ソフトウェアのアップデート
+ここでは、アップデート方法について説明します。
+
+## ソフトウェアのアップデート
+
+ソフトウェアのアップデートを行う際には、下記のサイトより最新版のインストーラをダウンロードし、インストールを行なってください。  
+**※なお、インストールを行う際は起動している SmartDIYs Creator を必ず終了させてください。**
+
+[SmartDIYs Creator ダウンロードページ](https://www.smartdiys.com/smartdiys-creator/)
+
+最新版のインストールを行う場合、過去のバージョンのソフトウェアは自動的にアンインストールされますが、ユーザ設定やパラメータのユーザ辞書は保持されます。
+
+
+## 現在のバージョンの確認
+`メニューバー` > `ヘルプ` > `SmartDIYs Creator について` をクリックすると現在のソフトウェアバージョンを確認できます。
+
+## アップデート通知
+`メニューバー` > `ユーザ設定` > `その他` にある「アップデート通知を有効にする」にチェックを入れると、新しいバージョンがリリースされている場合にお知らせが表示されます。
 
 <div style="page-break-before:always"></div>
