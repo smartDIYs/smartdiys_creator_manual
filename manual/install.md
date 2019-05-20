@@ -4,7 +4,7 @@
 
 ## ソフトウェアのインストール
 
-1. <a href="https://www.smartdiys.com/smartdiys-creator/" taget="_blank">こちら</a>のページから、お使いのOSのインストーラをダウンロードしてください。
+1. <a href="https://www.smartdiys.com/smartdiys-creator/" target="_blank">こちら</a>のページから、お使いのOSのインストーラをダウンロードしてください。
 
 2. ダウンロードしたインストーラを実行します。
 3. Windowsをお使いの方でセキュリティ警告（SmartScreen）が表示される場合は、「詳細情報」をクリックし、発行元が「SMARTDIYS CO., Ltd.」であることを確認して「実行」ボタンを押してください。
