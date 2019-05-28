@@ -7,13 +7,6 @@
 1. <a href="https://www.smartdiys.com/smartdiys-creator/" target="_blank">こちら</a>のページから、お使いのOSのインストーラをダウンロードしてください。
 
 2. ダウンロードしたインストーラを実行します。
-3. Windowsをお使いの方でセキュリティ警告（SmartScreen）が表示される場合は、「詳細情報」をクリックし、発行元が「SMARTDIYS CO., Ltd.」であることを確認して「実行」ボタンを押してください。
-<p align="center">
-<img alt="SmartScreen" src="./images/install/SmartScreen1_guide.png" style="width:70%">
-</p>
-<p align="center">
-<img alt="SmartScreen" src="./images/install/SmartScreen2_guide.png" style="width:70%">
-</p>
 
 ---
 4. インストール画面が表示されるので、「次へ」ボタンをクリックします。
