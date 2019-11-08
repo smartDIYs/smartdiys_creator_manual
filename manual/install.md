@@ -41,7 +41,7 @@
 <img alt="SmartScreen" src="./images/install/win_install_7.png" style="width:70%">
 </p>
 
-9. インストールするコンポーネントが表示されます。全てにチェックが入っていることを確認し、「次へ」ボタンをクリックします。
+9. インストールするコンポーネントが表示されます。必要なコンポーネントにチェックが入っていることを確認し、「次へ」ボタンをクリックします。
 <p align="center">
 <img alt="SmartScreen" src="./images/install/win_install_8.png" style="width:70%">
 </p>

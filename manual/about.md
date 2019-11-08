@@ -1,4 +1,4 @@
-SmartDIYs Creator は FABOOL Laserシリーズ対応の加工用ソフトウェアです。
+SmartDIYs Creator は FABOOL LaserシリーズおよびEtcherLaser対応の加工用ソフトウェアです。
 画像データを取り込んでレイアウトを編集し、レーザパラメータを設定して加工を行うソフトウェアです。
 
 ---
@@ -9,10 +9,10 @@ SmartDIYs Creator は FABOOL Laserシリーズ対応の加工用ソフトウェ�
 
 ## 製品仕様
 ### 対応製品
-FABOOL Laser Mini / FABOOL Laser CO2 / FABOOL Laser DS
+FABOOL Laser Mini / FABOOL Laser CO2 / FABOOL Laser DS / EtcherLaser
 
 ### 対応ファイル
-png / jpg / bmp / gif / tif / svg / dxf
+png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)
 
 ### ソフトウェアの動作要件
 #### Windows
