@@ -154,7 +154,7 @@
 <tr>
 <td align="left">2020.3.12</td>
 <td align="left">v1.2.0</td>
-<td align="left">フレームワークの更新<br>macOS 10.15 Gatekeeperへの対応<br>繰り返し加工に関するユーザ設定項目の追加<br>アセットの追加<br>UI/UX改善<br>その他 軽微な不具合の修正</td>
+<td align="left">フレームワークの更新<br>macOS 10.15 Gatekeeperへの対応<br>繰り返し加工に関する設定項目の追加<br>アセットの追加<br>UI/UX改善<br>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.0/SmartDIYsCreator_offline_installer_mac-v1.2.0.dmg">mac</a>
 /
