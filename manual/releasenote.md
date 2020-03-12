@@ -9,7 +9,9 @@
 <th align="left">インストーラ</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+
+<tr>
 <td align="left">2019.4.17</td>
 <td align="left">v1.0.0</td>
 <td align="left">正式版リリース</td>
@@ -18,6 +20,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.0/SmartDIYsCreator_offline_installer_win-v1.0.0.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.4.25</td>
 <td align="left">v1.0.1</td>
@@ -27,6 +30,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.1/SmartDIYsCreator_offline_installer_win-v1.0.1.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.4.26</td>
 <td align="left">v1.0.2</td>
@@ -36,6 +40,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.2/SmartDIYsCreator_offline_installer_win-v1.0.2.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.5.13</td>
 <td align="left">v1.0.3</td>
@@ -45,6 +50,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.3/SmartDIYsCreator_offline_installer_win-v1.0.3.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.5.30</td>
 <td align="left">v1.0.4</td>
@@ -54,6 +60,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.4/SmartDIYsCreator_offline_installer_win-v1.0.4.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.6.4</td>
 <td align="left">v1.0.5</td>
@@ -63,6 +70,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.5/SmartDIYsCreator_offline_installer_win-v1.0.5.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.6.28</td>
 <td align="left">v1.0.6</td>
@@ -72,6 +80,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.6/SmartDIYsCreator_offline_installer_win-v1.0.6.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.8.22</td>
 <td align="left">v1.0.7</td>
@@ -81,6 +90,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.0.7/SmartDIYsCreator_offline_installer_win-v1.0.7.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.11.9</td>
 <td align="left">v1.1.0</td>
@@ -90,6 +100,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.0/SmartDIYsCreator_offline_installer_win-v1.1.0.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.11.12</td>
 <td align="left">v1.1.1</td>
@@ -99,6 +110,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.1/SmartDIYsCreator_offline_installer_win-v1.1.1.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.12.03</td>
 <td align="left">v1.1.2</td>
@@ -108,6 +120,7 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.2/SmartDIYsCreator_offline_installer_win-v1.1.2.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.12.17</td>
 <td align="left">v1.1.3</td>
@@ -117,22 +130,35 @@
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.3/SmartDIYsCreator_offline_installer_win-v1.1.3.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2019.12.24</td>
 <td align="left">v1.1.4</td>
-<td align="left">ベクタ塗り加工の曲線精細度向上<br>キャプチャ時のエラー処理追加<br>その他、軽微な不具合の修正</td>
+<td align="left">ベクタ塗り加工の曲線精細度向上<br>キャプチャ時のエラー処理追加<br>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.4/SmartDIYsCreator_offline_installer_mac-v1.1.4.dmg">mac</a>
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.4/SmartDIYsCreator_offline_installer_win-v1.1.4.exe">win</td>
 </tr>
+
 <tr>
 <td align="left">2020.2.10</td>
 <td align="left">v1.1.5</td>
-<td align="left">ハッチング処理のパフォーマンスの向上<br>通信プロトコルの改善<br>新規アセット追加<br>UI/UX改善<br>その他、軽微な不具合の修正</td>
+<td align="left">ハッチング処理のパフォーマンスの向上<br>通信プロトコルの改善<br>新規アセット追加<br>UI/UX改善<br>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.5/SmartDIYsCreator_offline_installer_mac-v1.1.5.dmg">mac</a>
 /
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.1.5/SmartDIYsCreator_offline_installer_win-v1.1.5.exe">win</td>
 </tr>
+
+<tr>
+<td align="left">2020.3.12</td>
+<td align="left">v1.2.0</td>
+<td align="left">フレームワークの更新<br>macOS 10.15 Gatekeeperへの対応<br>繰り返し加工に関するユーザ設定項目の追加<br>アセットの追加<br>UI/UX改善<br>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.0/SmartDIYsCreator_offline_installer_mac-v1.2.0.dmg">mac</a>
+/
+<a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.0/SmartDIYsCreator_offline_installer_win-v1.2.0.exe">win</td>
+</tr>
+
 </tbody></table>
