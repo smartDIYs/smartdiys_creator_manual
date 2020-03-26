@@ -23,7 +23,7 @@ png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)
 
 #### macOS
 - OS 10.12.1 Sierra以降  
-  <span style="color:#666; font-size:0.8pem">※10.11.6をお使いの方は [1.1.5以前のバージョン](https://www.smartdiys.com/manual/smartdiys-creator-releasenote/) をご利用ください。</span>
+  <span style="color:#666">※10.11.6をお使いの方は [1.1.5以前のバージョン](https://www.smartdiys.com/manual/smartdiys-creator-releasenote/) をご利用ください。</span>
 - CPU：Core M 1.1Ghz以上
 - RAM：4GB以上
 - HDD：1GB以上の空き容量
