@@ -22,7 +22,8 @@ png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)
 - HDD：1GB以上の空き容量
 
 #### macOS
-- OS 10.11.6 El capitan以降
+- OS 10.12.1 Sierra以降  
+  ※10.11.6をお使いの方は[ver 1.1.5以前](https://www.smartdiys.com/manual/smartdiys-creator-releasenote/)のバージョンをご利用ください。
 - CPU：Core M 1.1Ghz以上
 - RAM：4GB以上
 - HDD：1GB以上の空き容量
