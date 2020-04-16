@@ -161,4 +161,14 @@
 <a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.0/SmartDIYsCreator_offline_installer_win-v1.2.0.exe">win</td>
 </tr>
 
+<tr>
+<td align="left">2020.4.16</td>
+<td align="left">v1.2.1</td>
+<td align="left">DXFファイル読み込み機能の強化<br>macOS ダークモードでの表示崩れの改善<br>通信エラー検出機能の改善<br>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.1/SmartDIYsCreator_offline_installer_mac-v1.2.1.dmg">mac</a>
+/
+<a href="http://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.1/SmartDIYsCreator_offline_installer_win-v1.2.1.exe">win</td>
+</tr>
+
 </tbody></table>
