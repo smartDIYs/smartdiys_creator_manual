@@ -1,4 +1,5 @@
-ここでは、パラメータの設定項目について説明します。
+ここでは、パラメータの設定項目について説明します。  
+パラメータ設定ウィンドウはアイテムリストに表示されているアイテムをクリックすると表示されます。
 
 <p align="center">
 <img alt="UserOrigin" src="./images/parameter/about.png" style="width:50%">
