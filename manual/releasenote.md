@@ -191,4 +191,14 @@
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.3/SmartDIYsCreator_offline_installer_win-v1.2.3.exe">win</td>
 </tr>
 
+<tr>
+<td align="left">2020.10.6</td>
+<td align="left">v1.2.4</td>
+<td align="left">特定のDXFデータ読込時のクラッシュ回避<br>新規アセット追加<br>UI/UXの向上<br>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.4/SmartDIYsCreator_offline_installer_mac-v1.2.4.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.4/SmartDIYsCreator_offline_installer_win-v1.2.4.exe">win</td>
+</tr>
+
 </tbody></table>
