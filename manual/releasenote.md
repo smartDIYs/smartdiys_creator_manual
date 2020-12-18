@@ -201,4 +201,14 @@
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.4/SmartDIYsCreator_offline_installer_win-v1.2.4.exe">win</td>
 </tr>
 
+<tr>
+<td align="left">2020.12.18</td>
+<td align="left">v1.3.0</td>
+<td align="left">EtcherLaserProに対応<br>推定残り時間表示機能の追加<br>通信プロトコルの改善<br/>DXFファイル色解釈の改善<br>ユーザ原点機能の仕様変更<br/>加工機タイプ識別警告の追加<br/>UI/UXの向上<br/>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.4/SmartDIYsCreator_offline_installer_mac-v1.2.4.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.2.4/SmartDIYsCreator_offline_installer_win-v1.2.4.exe">win</td>
+</tr>
+
 </tbody></table>
