@@ -214,7 +214,7 @@
 <tr>
 <td align="left">2020.12.24</td>
 <td align="left">v1.3.1</td>
-<td align="left">EtcherLaserProのキャプチャ時のデータエラーに関する修正<br/>EtcherLaserProの警告表示に関する改善<br/>v1.3.0で発生した特定条件下での停止問題の修正<br/>その他 軽微な不具合の修正</td>
+<td align="left">EtcherLaserProのキャプチャエラーに関する修正<br/>EtcherLaserProの警告表示に関する改善<br/>v1.3.0で発生した特定条件下での停止問題の修正<br/>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.1/SmartDIYsCreator_offline_installer_mac-v1.3.1.dmg">mac</a>
 /
