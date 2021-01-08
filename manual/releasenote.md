@@ -221,4 +221,14 @@
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.1/SmartDIYsCreator_offline_installer_win-v1.3.1.exe">win</td>
 </tr>
 
+<tr>
+<td align="left">2021.1.8</td>
+<td align="left">v1.3.2</td>
+<td align="left">自動インターバル機能の追加<br/>バッファーオーバーフローに関する改善<br/>EtcherLaserProの排気ファン設定機能追加<br/>EtcherLaserProの水温値取得に関する改善<br/>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.2/SmartDIYsCreator_offline_installer_mac-v1.3.2.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.2/SmartDIYsCreator_offline_installer_win-v1.3.2.exe">win</td>
+</tr>
+
 </tbody></table>
