@@ -231,4 +231,15 @@
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.2/SmartDIYsCreator_offline_installer_win-v1.3.2.exe">win</td>
 </tr>
 
+
+<tr>
+<td align="left">2021.3.17</td>
+<td align="left">v1.3.3</td>
+<td align="left">EtcherLaserProのLED照度設定機能追加<br/>SVG解析に関する不具合修正<br/>加工機との通信に関する機能改善<br/>アイテムリストからのオブジェクト選択機能追加<br/>UI/UXの改善<br/>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.3/SmartDIYsCreator_offline_installer_mac-v1.3.3.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.3/SmartDIYsCreator_offline_installer_win-v1.3.3.exe">win</td>
+</tr>
+
 </tbody></table>
