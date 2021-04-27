@@ -244,7 +244,7 @@
 <tr>
 <td align="left">2021.4.27</td>
 <td align="left">v1.3.4</td>
-<td align="left">Inkscapeの最新バージョン対応<br/>特定条件下でのEtcherLaser停止問題の改善<br/>Windowsのクラッシュ問題の改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正</td>
+<td align="left">Inkscape対応バージョンの拡充<br/>特定条件下でのEtcherLaser停止問題の改善<br/>Windowsのクラッシュ問題の改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.4/SmartDIYsCreator_offline_installer_mac-v1.3.4.dmg">mac</a>
 /
