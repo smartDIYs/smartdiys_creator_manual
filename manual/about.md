@@ -1,4 +1,4 @@
-SmartDIYs Creator は FABOOL LaserシリーズおよびEtcherLaser対応の加工用ソフトウェアです。
+SmartDIYs Creator は FABOOL LaserシリーズおよびEtcherLaserシリーズ対応の加工用ソフトウェアです。
 画像データを取り込んでレイアウトを編集し、レーザパラメータを設定して加工を行うソフトウェアです。
 
 ---
@@ -9,7 +9,7 @@ SmartDIYs Creator は FABOOL LaserシリーズおよびEtcherLaser対応の加�
 
 ## 製品仕様
 ### 対応製品
-FABOOL Laser Mini / FABOOL Laser CO2 / FABOOL Laser DS / EtcherLaser
+FABOOL Laser Mini / FABOOL Laser CO2 / FABOOL Laser DS / Etcher Laser / Etcher Laser Pro
 
 ### 対応ファイル
 png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)
@@ -22,7 +22,7 @@ png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)
 - HDD：1GB以上の空き容量
 
 #### macOS
-- OS 10.12.1 Sierra以降  
+- OS 10.12.1 Sierra以降<br>
   <span style="color:#666">※10.11.6をお使いの方は [1.1.5以前のバージョン](https://www.smartdiys.com/manual/smartdiys-creator-releasenote/) をご利用ください。</span>
 - CPU：Core M 1.1Ghz以上
 - RAM：4GB以上
