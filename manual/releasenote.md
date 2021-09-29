@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2021.9.29</td>
+<td align="left">v1.3.6</td>
+<td align="left">巨大な図形のスケーリングに関する改善<br/>EtcherLaserのカメラレンズ仕様変更への対応<br/>パフォーマンスに関する改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.6/SmartDIYsCreator_offline_installer_mac-v1.3.6.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.3.6/SmartDIYsCreator_offline_installer_win-v1.3.6.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2021.9.6</td>
 <td align="left">v1.3.5</td>
 <td align="left">EtcherLaserProの排気ファンの延長機能追加<br/>EtcherLaserProの排気ファンのコントロール機能追加<br/>EtcherLaserProの水温値取得に関する改善<br/>EtcherLaserのカメラレンズ仕様変更への対応<br/>その他 軽微な不具合の修正</td>
