@@ -12,7 +12,7 @@
 <tbody>
 
 <tr>
-<td align="left">2021.11.11</td>
+<td align="left">2021.11.12</td>
 <td align="left">v1.4.0</td>
 <td align="left">LC950に対応<br/>スキャン補正設定の追加<br/>その他 軽微な不具合の修正</td>
 <td align="left">
