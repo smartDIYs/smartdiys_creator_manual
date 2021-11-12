@@ -74,6 +74,11 @@
 <img alt="SmartScreen" src="./images/install/win_install_14.png" style="width:70%">
 </p>
 
+15. PCの設定によってはファイヤーウォールの警告が表示される場合がございます。LCシリーズ以外をお使いの場合は「キャンセル」をクリックして問題ありません。※設定は後から変更できます。
+<p align="center">
+<img alt="SmartScreen" src="./images/install/win_install_15.png" style="width:70%">
+</p>
+
 ## PCの設定について
 SmartDIYs Creatorは加工中、加工機に対して常に制御情報を送付しています。そのため、PCがスリープモードになってしまったり、アプリケーションが非アクティブになってしまうなどすると、加工機への制御情報の送付が中断されてしまったり、通信の優先度が下げられてしまう場合があります。
 これを避けるため、下記を参考にスリープ設定を解除することをお勧めしております。
