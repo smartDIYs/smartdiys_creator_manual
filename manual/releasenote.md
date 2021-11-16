@@ -14,7 +14,7 @@
 <tr>
 <td align="left">2021.11.16</td>
 <td align="left">v1.4.1</td>
-<td align="left">ラスタ加工時の加工位置ズレに関する修正<br/>LC950の原点復帰に関する挙動の改善<br/>その他 軽微な不具合の修正</td>
+<td align="left">ラスタ加工時の加工位置に関する修正<br/>LC950の原点復帰に関する挙動の改善<br/>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.4.1/SmartDIYsCreator_offline_installer_mac-v1.4.1.dmg">mac</a>
 /
