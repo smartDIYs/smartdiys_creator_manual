@@ -14,7 +14,7 @@
 <tr>
 <td align="left">2021.11.24</td>
 <td align="left">v1.4.2</td>
-<td align="left">ラスタ加工時の加工位置に関する修正<br/>キャプチャ画像のクリア機能追加<br/>その他 軽微な不具合の修正</td>
+<td align="left">ラスタ加工時の加工位置に関する修正<br/>キャプチャ画像のクリアボタン追加<br/>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.4.2/SmartDIYsCreator_offline_installer_mac-v1.4.2.dmg">mac</a>
 /
