@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2021.12.22</td>
+<td align="left">v1.4.3</td>
+<td align="left">LC950の加工ファイル書き出し機能追加<br/>その他 軽微な不具合の修正</td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.4.3/SmartDIYsCreator_offline_installer_mac-v1.4.3.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.4.3/SmartDIYsCreator_offline_installer_win-v1.4.3.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2021.11.24</td>
 <td align="left">v1.4.2</td>
 <td align="left">ラスタ加工時の加工位置に関する修正<br/>キャプチャ画像のクリアボタン追加<br/>その他 軽微な不具合の修正</td>
