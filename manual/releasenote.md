@@ -14,7 +14,7 @@
 <tr>
 <td align="left">2022.4.25</td>
 <td align="left">v1.4.5</td>
-<td align="left">クラッシュ問題の改善<br/>EtcherLaserProの排気ファン設定に関する改善<br/>フレームワークの更新<br/>その他 軽微な不具合の修正</td>
+<td align="left">フレームワークの更新<br/>アプリケーションのクラッシュ問題の改善<br/>EtcherLaserProの排気ファン設定に関する改善<br/>その他 軽微な不具合の修正</td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.4.5/SmartDIYsCreator_offline_installer_mac-v1.4.5.dmg">mac</a>
 /
