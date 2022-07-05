@@ -44,6 +44,10 @@
     "title": "グリッドアイテムの活用"
   },
   {
+    "file": "parameteritems.md",
+    "title": "パラメータアイテムの作成"
+  },
+  {
     "file": "userorigin.md",
     "title": "ユーザ原点の利用方法"
   },
