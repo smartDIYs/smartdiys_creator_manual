@@ -16,7 +16,7 @@ document = ""
 for json_data in json_array:
 
     # Get File Path and Validate
-    if json_data.has_key("file") == False:
+    if "file" not in json_data:
         continue
 
     filepath = CONTENT_DIR + json_data["file"]
@@ -35,7 +35,7 @@ for json_data in json_array:
 
     # Add title
     if title != "":
-        document += "\n# " + title.encode("utf-8") + "\n"
+        document += "\n# " + title + "\n"
 
     document += data
     document += "\n" + NEWPAGE_CODE + "\n"
