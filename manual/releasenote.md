@@ -14,7 +14,7 @@
 <tr>
 <td align="left">2022.7.6</td>
 <td align="left">v1.5.0</td>
-<td align="left">SC300に対応<br/>パラメータアイテム作成機能追加<br/>背面オブジェクトの選択機能追加<br/>自動接続のパフォーマンスの改善</td>
+<td align="left">SC300に対応<br/>パラメータアイテム作成機能追加<br/>背面オブジェクトの選択機能追加<br/>加工パラメータ初期値の変更<br/>自動接続のパフォーマンスの改善</td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.5.0/SmartDIYsCreator_offline_installer_mac-v1.5.0.dmg">mac</a>
 /
