@@ -84,5 +84,5 @@ SmartDIYs Creatorは加工中、加工機に対して常に制御情報を送付
 これを避けるため、下記を参考にスリープ設定を解除することをお勧めしております。
 
 - [スリープ設定の解除方法（Windows 10）](https://www.tipsfound.com/windows10/03005)
-- [スリープ設定の解除方法（Windows 7）](https://www.frontier-direct.jp/faq/09/004235.htm)
+- [スリープ設定の解除方法（Windows 7）](https://faq.nec-lavie.jp/qasearch/1007/app/servlet/relatedqa?QID=018257)
 - [スリープ設定の解除方法（Mac）](http://minto.tech/mac-sleep/)
