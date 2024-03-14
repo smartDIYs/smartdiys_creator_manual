@@ -10,7 +10,7 @@ SmartDIYs Creator は FABOOL Laserシリーズ、EtcherLaserシリーズ、及�
 ## 製品仕様
 ### 対応製品
 FABOOL Laser Mini / FABOOL Laser CO2 / FABOOL Laser DS /<br>
-Etcher Laser / Etcher Laser Pro / SC300 / LC950
+Etcher Laser / Etcher Laser Pro / SC300 / LC950 / HL650 / HL650R
 
 ### 対応ファイル
 png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)

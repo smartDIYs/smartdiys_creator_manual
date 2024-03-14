@@ -21,6 +21,8 @@
  EtcherLaserPro: 50 - 20000 [mm/min]
  SC300: 50 - 10000 [mm/min]
  LC950: 50 - 48000 [mm/min]
+ HL650: 50 - 48000 [mm/min]
+ HL650R: 50 - 72000 [mm/min]
 ```
 
 ## パワー
@@ -64,3 +66,8 @@ FABOOL Laser Mini 3.5W でダンボールに刻印 / 使用画像 : 1023x778 ピ
 <p align="center">
 <img alt="SmartScreen" src="./images/parameter/hatching.png" style="width:70%">
 </p>
+
+
+## エアブロー
+HL650シリーズのみ有効になるパラメータです。加工時のエアーブローの強さをLOW/HIGHで切り替えます。それぞれの設定値のエアー強度は本体のつまみネジで調整します。<br>
+※つまみネジを調整する場合は、エアーを完全に切らないように注意してください。素材の発火リスクが高まるほか、レンズやエアーホース内部に汚れが溜まりやすくなります。
