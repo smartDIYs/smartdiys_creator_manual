@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2024.3.14</td>
+<td align="left">v1.6.0</td>
+<td align="left">HL650に対応<br/>刻印加工時のスキャン加工方向の設定機能追加<br/>スキャン補正機能の各種改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正<br/></td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.6.0/SmartDIYsCreator_offline_installer_mac-v1.6.0.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.6.0/SmartDIYsCreator_offline_installer_win-v1.6.0.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2023.5.11</td>
 <td align="left">v1.5.2</td>
 <td align="left">加工経路最適化に関する改善<br/>アプリケーションのクラッシュ問題の改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正<br/></td>
