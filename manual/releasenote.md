@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2024.9.26</td>
+<td align="left">v1.6.2</td>
+<td align="left">HLシリーズのカメラ露出設定機能を追加<br/>LC/高画素のラスタ加工の品質改善<br/>特定のベクタ線データにおける加工時間の改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正<br/></td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.6.2/SmartDIYsCreator_offline_installer_mac-v1.6.2.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v1.6.2/SmartDIYsCreator_offline_installer_win-v1.6.2.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2024.5.10</td>
 <td align="left">v1.6.1</td>
 <td align="left">HL650Rのギア比変更機能を追加<br/>LC/HLシリーズの加工範囲警告に関する改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正<br/></td>
