@@ -14,7 +14,7 @@
 <tr>
 <td align="left">2025.9.30</td>
 <td align="left">v2.0.0</td>
-<td align="left">インポート設定の各種機能を追加<br/>プレビュー表示の機能改善<br/>ラスタ画像の編集機能を追加<br/>Windows環境におけるテキストサイズの不具合修正<br/>テキストの改行に対応<br/><small>※ver2.0.0で作成したファイルをv1.6.2で読み込むことは可能ですが、テキストアイテムの表示が崩れる場合があります。</small><br/>フレームワークの更新<br/><small>※Windows8および32bit版OSのサポートを終了しました。</small><br/>UI/UXの改善<br/>その他 軽微な不具合の修正や機能追加<br/></td>
+<td align="left">インポート設定の各種機能を追加<br/>プレビュー表示の機能改善<br/>ラスタ画像の編集機能を追加<br/>Windows環境におけるテキストサイズの不具合修正<br/>テキストの改行に対応<br/>フレームワークの更新<br/>UI/UXの改善<br/>その他 軽微な不具合の修正や機能追加<br/></td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.0.0/SmartDIYsCreator_offline_installer_mac-v2.0.0.dmg">mac</a>
 /
