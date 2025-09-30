@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2025.9.30</td>
+<td align="left">v2.0.0</td>
+<td align="left">画像インポート時の各種機能を追加<br/>テキストの改行に対応<br/>プレビュー表示の機能改善<br/>ラスタ画像の編集機能を追加<br/>Windows環境におけるテキストサイズの不具合修正<br/>フレームワークの更新<br>32bit版Windowsのサポートを終了<br/>UI/UXの改善<br/>その他 軽微な不具合の修正や機能追加<br/></td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.0.0/SmartDIYsCreator_offline_installer_mac-v2.0.0.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.0.0/SmartDIYsCreator_offline_installer_win-v2.0.0.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2024.9.26</td>
 <td align="left">v1.6.2</td>
 <td align="left">HLシリーズのカメラ露出設定機能を追加<br/>高画素のラスタ加工の品質改善<br/>特定のベクタ線データにおける加工時間の改善<br/>UI/UXの改善<br/>その他 軽微な不具合の修正<br/></td>
