@@ -23,7 +23,7 @@ png / jpg / bmp / gif / tif / svg / dxf (R12形式推奨)
 - HDD：1GB以上の空き容量
 
 #### macOS
-- OS: macOS 10.14 以降<br>
+- OS: macOS 12.7 以降<br>
 - CPU：Core M 1.1Ghz以上
 - RAM：4GB以上
 - HDD：1GB以上の空き容量
