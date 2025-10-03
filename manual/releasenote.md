@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2025.10.3</td>
+<td align="left">v2.0.1</td>
+<td align="left">SVG解析に関する不具合修正<br/>Windowsのファイル関連付け不具合の修正<br/>加工アイテム無効化に関する不具合の修正<br/>HL650のカメラ撮像時の挙動改善<br/>その他 軽微な不具合の修正<br/></td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.0.1/SmartDIYsCreator_offline_installer_mac-v2.0.1.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.0.1/SmartDIYsCreator_offline_installer_win-v2.0.1.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2025.9.30</td>
 <td align="left">v2.0.0</td>
 <td align="left">インポート設定の各種機能を追加<br/>プレビュー表示の機能改善<br/>ラスタ画像の編集機能を追加<br/>Windows環境におけるテキストサイズの不具合修正<br/>テキストの改行に対応<br/>フレームワークの更新<br/>UI/UXの改善<br/>その他 軽微な不具合の修正や機能追加<br/></td>
