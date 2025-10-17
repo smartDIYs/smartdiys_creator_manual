@@ -14,7 +14,7 @@
 <tr>
 <td align="left">2025.10.17</td>
 <td align="left">v2.0.3</td>
-<td align="left">LC950の水冷機エラー表示に関する挙動改善<br/>一部のフォントスタイルが表示されない問題の修正<br/>Windowsのズーム操作に関する修正<br/>その他 軽微な不具合の修正と機能改善<br/></td>
+<td align="left">LC950の水冷機エラー表示に関する挙動改善<br/>一部のフォントスタイルが表示されない問題の修正<br/>Windowsのズーム操作に関する修正<br/>フレームワークの更新<br/>その他 軽微な不具合の修正と機能改善<br/></td>
 <td align="left">
 <a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.0.3/SmartDIYsCreator_offline_installer_mac-v2.0.3.dmg">mac</a>
 /
