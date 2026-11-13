@@ -12,6 +12,16 @@
 <tbody>
 
 <tr>
+<td align="left">2026.11.13</td>
+<td align="left">v2.1.2</td>
+<td align="left">LC/HLシリーズの加工ファイルの座標系設定機能を追加<br/>オブジェクトの配列コピー機能を追加<br/>LC/HLシリーズの加工データのレイヤー統合による最適化<br/>Windows版の署名に関する改善<br/>その他 軽微な不具合の修正<br/></td>
+<td align="left">
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.1.2/SmartDIYsCreator_offline_installer_mac-v2.1.2.dmg">mac</a>
+/
+<a href="https://download.smartdiys.com/smartdiyscreator/offline_installer/v2.1.2/SmartDIYsCreator_offline_installer_win-v2.1.2.exe">win</td>
+</tr>
+
+<tr>
 <td align="left">2026.4.24</td>
 <td align="left">v2.1.1</td>
 <td align="left">オブジェクトの分布配置機能追加<br/>一部のラスタ画像の読み込み不具合修正<br/>特定のWindows環境での接続問題の改善<br/>HLカメラ歪み補正ダイアログ機能強化<br/>その他 軽微な不具合の修正<br/></td>
